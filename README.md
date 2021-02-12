@@ -1,5 +1,5 @@
 # CodingBootcamps-Problem Solving Using C : Beginner level - Day 2 Hands-on Practice 
-This programs enhances coding skills for the enrtry level studensts.
+This programs enhances coding skills for enrtry level students.
 
 <h2> Data Types </h2>
 <b>Program 1</b> :-Find the suitable data type values and write them by replacing
